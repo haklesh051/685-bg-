@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #121212;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.game-container {
+  margin-top: 100px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+#betBtn {
+  background: green;
+  color: white;
+}
+
+#cashoutBtn {
+  background: red;
+  color: white;
+}
